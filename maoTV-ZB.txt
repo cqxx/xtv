@@ -1,4 +1,5 @@
 {
+  "spider": "http://static-0feaae6a-16de-44b5-b88c-0025d59ad2c3.bspapp.com/xm.jar"
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider": "http://fj365.ml/bb/xb.txt?raw=true",
 "sites":[
