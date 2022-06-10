@@ -1,9 +1,7 @@
 
 {
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-"http://static-0feaae6a-16de-44b5-b88c-0025d59ad2c3.bspapp.com/xm.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
+"wallpaper": "",
+  "spider": "http://static-0feaae6a-16de-44b5-b88c-0025d59ad2c3.bspapp.com/xm.jar",
 "sites": [    
 {"key":"csp_appysv2_追剧TV","name":"追剧TV(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.229.120.180:88/lvdou_api.php/v2.vod"},
 //{"key":"csp_appysv2_渔渔影视","name":"渔渔影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
