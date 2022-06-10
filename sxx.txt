@@ -1,6 +1,5 @@
-﻿###一个分享者
-{ "spider": "https://gitee.com/daji888/maoys/raw/master/custom_spider.jar;md5;60befd3bc8109219bfcd8fe2cb18a5cd",
-  "sites": [
+###一个分享者
+{ 
  {
       "key": "csp_Kumao",
       "name": "🐱 酷猫",
