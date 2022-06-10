@@ -1,7 +1,7 @@
 
 {
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
+"http://static-0feaae6a-16de-44b5-b88c-0025d59ad2c3.bspapp.com/xm.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [    
