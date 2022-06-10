@@ -114,7 +114,7 @@
 {
 "name": "redirect",
 "urls": [
-"https://raw.githubusercontent.com/yujincheng08/rust-iptv-proxy/master/README.md"
+"https://doc.rust-lang.org/cargo/reference/manifest.html"
 ]
 }
 ]
