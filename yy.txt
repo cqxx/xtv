@@ -1,42 +1,7 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@cqxx 
-battery13
-/
-battery
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-battery/mao220608a(tiger).txt
-
-tiger123 上传文件至 ''
-Latest commit eeadfe1 6 hours ago
- History
- 0 contributors
-708 lines (690 sloc)  19.6 KB
-
-
-
-﻿{
+{
 
 "spider" : "https://tiger123.coding.net/p/maotv_spider/d/maotv/git/raw/master/m.jar",
 "sites" : [
-
-{"name" : "==============================="},
-{"name" : "增加YY站,上传至【wp.wangshi520.com】外链调用"},
-{"name" : "==============================="},
-
 
 {"name" : "爬虫"},
 {"api":"csp_Kunyu77","key":"csp_Kunyu77","filterable":1,"name":"77","type":3},
