@@ -9,6 +9,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+        {
+      "key": "丝袜",
+      "name": "丝袜",
+      "type": 2,
+      "api": "https://siwazyw.cc/api.php/provide/vod/at/json/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "type": 0,
       "searchable": 1,
