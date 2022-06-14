@@ -12,7 +12,7 @@
         {
       "key": "丝袜",
       "name": "丝袜",
-      "type": 2,
+      "type": 1,
       "api": "https://siwazyw.cc/api.php/provide/vod/at/json/",
       "searchable": 1,
       "quickSearch": 1,
